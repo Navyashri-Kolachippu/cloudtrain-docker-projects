@@ -116,7 +116,7 @@ docker tag <image-name>:<image-tag> <registry-url>/<image-name>:<image-tag>
 
 # Push the image
 docker push <registry-url>/<image-name>:<image-tag>
-
+docker push axtionable/dot-net-project:v1.0.0
 ----------------------------------------------------------------------------------------
 
 Project-1: Frontend app deployment using nginx
